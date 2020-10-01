@@ -1,7 +1,12 @@
-# A Guestbook to help teach other's source control using git
+# :speech_balloon: Sign the Guestbook
+A repository to help teach others source control and markdown syntax.
 
-## Leave your name and your favourite emoji!
-
-**https://gist.github.com/rxaviers/7360908**
-
+## :pencil2: Leave your name and your favourite emoji!
 Billy was here. :octopus:
+
+
+
+## :information_source: Sources:
+Find your emoji: https://gist.github.com/rxaviers/7360908
+Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
