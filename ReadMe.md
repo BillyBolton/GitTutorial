@@ -2,8 +2,8 @@
 A repository to help teach others source control and markdown syntax.
 
 ## :pencil2: Leave your name and your favourite emoji!
-Billy was here. :turtle:\
-Domenic was also here. :fire:
+Anon was here:fox:
+
 
 
 ## :information_source: Sources:
