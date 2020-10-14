@@ -10,7 +10,8 @@ spooky :skull:
 Anon was here :dragon_face:  
 another person was here :frog:
 
-creating conflict (christina1 branch) :tiger:
+monkey seedo :monkey_face:
+
 
 
 ## :information_source: Sources:
@@ -18,3 +19,4 @@ Find your emoji: https://gist.github.com/rxaviers/7360908
 
 Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+More About Branches: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
