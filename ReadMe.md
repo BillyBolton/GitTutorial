@@ -7,21 +7,23 @@ Billy was here. :turtle:\
 Domenic was also here. :fire:\
 spooky :skull:
 
-Anon was here :dragon_face:  
-another person was here :frog:
+Anon was here :dragon_face:  \
+another person was here :frog:\
 Memo was here :happy_face:
 
-Valerie was here :eye:
+Valerie was here :eye:\
 monkey seedo :monkey_face:
 
 A wild Philip appeared! :boom:
 
 
-
-
 ## :information_source: Sources:
-Find your emoji: https://gist.github.com/rxaviers/7360908
+About Branching: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+Markdown Practice: https://commonmark.org/help/tutorial/index.html
 
 Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-More About Branches: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+Find your emoji: https://gist.github.com/rxaviers/7360908
+
+
